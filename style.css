@@ -1,0 +1,40 @@
+body
+   {
+       background-color: rosybrown;
+   }
+
+p
+   {3          
+   	   font-family: 'Great Vibes', cursive;
+   	   font-size: 20px;
+   	   color: honeydew;
+   }
+
+h1  
+   {
+   	   font-family: 'Patrick Hand SC' , cursive;
+   	   font-size: 40px;
+   	   color: navy;
+   }
+
+h2 
+   {
+   	   font-family: 'Satisfy', cursive;
+   	   font-size: 20px;
+   	   color: slategrey;
+   }
+
+
+h3 
+   {
+   	    font-family: 'Great Vibes' , cursive;
+   	    font-size: 50px;
+   	    color: honeydew;
+   }
+
+h4
+   {
+   	   font-family: 'Patrick Hand SC' , cursive;
+   	   font-size: 20px;
+   	   color: honeydew;
+   }
